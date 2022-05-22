@@ -1,0 +1,1 @@
+web: gunicorn threeDModel.wsgi --log-file -
